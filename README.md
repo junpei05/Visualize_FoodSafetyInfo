@@ -1,2 +1,2 @@
-# Visualize_FoodSafetyInfo
+# 食品安全情報にある細菌数の可視化
 食品安全情報の自動更新・可視化システム
